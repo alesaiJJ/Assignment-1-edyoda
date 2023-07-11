@@ -1,4 +1,4 @@
-numbers = [1,2,3,4]
+numbers = [8,2,3,0,7]
 x = 0
 def total(x):
     for i in numbers:
