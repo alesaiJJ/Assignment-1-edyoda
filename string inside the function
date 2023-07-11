@@ -1,5 +1,5 @@
 def string():
-    a = 'abcd123'
+    a = '1234abcd'
     b = print(a[-1::-1])
-    return b
+    return ''
 print(string())
